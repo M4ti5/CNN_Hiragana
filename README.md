@@ -15,4 +15,4 @@ The purpose of this mini-project is to create a deep learning model to recognize
 This model will be an important element for a more consequent project of a serious game of learning hiragana in Virtual Reality.
 
 ## Model - Hiragana_CNN_v1 
-I put at your disposal a model already training having a accuracy of 93% (tested on 38547 elements)# CNN_Hiragana
+I put at your disposal a model already training having a accuracy of 93% (tested on 38547 elements)
